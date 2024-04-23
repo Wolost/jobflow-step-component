@@ -1,0 +1,5 @@
+[
+    { "type": "Confirm booking", "state": "completed" },
+    { "type": "Review Order", "state": "completed" },
+    { "type": "Complete move-in", "state": "ready" }
+]
